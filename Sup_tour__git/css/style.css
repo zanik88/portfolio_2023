@@ -2,6 +2,7 @@
   width: 1210px;
   height: 830px;
   margin: 0 auto;
+  display: grid;
 }
 @font-face {
   font-family: Play;
@@ -43,6 +44,8 @@
     ),
     url(../img/bg_1.jpg) no-repeat center top/cover;
   padding-top: 35px;
+  display: grid;
+  
 }
 .top__nav {
   display: grid;
@@ -51,7 +54,7 @@
 
 .header__menu {
   display: grid;
-  grid-template-rows: repeat(4, 1fr);
+  
 }
 .header__li {
   font-family: "Play";
