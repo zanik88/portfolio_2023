@@ -9,6 +9,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
+    <!-- <link rel="stylesheet" href="/Sup_tour__git/css/normalize.css"> -->
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/style.css">
     <title>SupTour</title>
@@ -16,38 +17,40 @@
 
 <body>
     <header class="header">
-        <div class="container">
-            <div class="top__nav">
-                <img src="logo/icon.svg" alt="icon">
-                <div class="header__menu">
-                    <div class="header__li"><a href="#">О нас</a></div>
-                    <div class="header__li"><a href="#">Галерея</a></div>
-                    <div class="header__li"><a href="#">Выбор тура</a></div>
-                    <div class="header__li"><a href="#">Почему мы?</a></div>
-                </div>
-                <div class="header-menu__call">
-                    <button class="header__call">Перезвонить вам?</button>
-                    <div><a class="header_tel" href="tel:+74952490044">+7(495)249-00-44</a>
-                    </div>
-                </div>
-            </div>           
-            <div>
-                <div class="header_text">
-                    Получите незабываемые эмоции за 5 дней sup-прогулок по живописным местам
-                </div>
-                <div class="header-text__sale">
-                    Сэкономьте 15% при заказе авторского тура в сентябре
-                </div>
+        <div class="container">      
+            <!-- img строчный -->
+            <img class="logo" src="logo/icon.svg" alt="icon">
+            <!-- div блочный элемент -->
+            <div class="navbar">
+                <ul class="navbar__menu">
+                    <li><a href="#">О нас</a></li>
+                    <li><a href="#">Галерея</a></li>
+                    <li><a href="#">Выбор тура</a></li>
+                    <li><a href="#">Почему мы?</a></li>
+                </ul>
             </div>
+            <div class="header_text">
+                Получите незабываемые эмоции за 5 дней sup-прогулок по живописным местам </div>
+            <div class="header-text__sale">
+                Сэкономьте 15% при заказе авторского тура в сентябре
+            </div>
+            <!-- button строчный элемент -->
             <button class="header__button">
                 Забронировать
             </button>
+
+            <div class="header-menu__call">
+                <button class="header__call">Перезвонить вам?</button>
+                <div><a class="header_tel" href="tel:+74952490044">+7(495)249-00-44</a>
+                </div>
+            </div>
             <div class="header__socials">
                 <img class="header-socials__img" src="logo/socials_tg.svg" alt="telegram">
                 <img class="header-socials__img" src="logo/socials_ins.svg" alt="instagram">
                 <img class="header-socials__img" src="logo/socials_wts.svg" alt="whatsapp">
             </div>
         </div>
+
     </header>
 </body>
 

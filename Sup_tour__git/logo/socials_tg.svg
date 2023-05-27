@@ -1,10 +1,10 @@
-<svg width="48" height="49" viewBox="0 0 48 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="49" height="49" viewBox="0 0 49 49" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_1_559)">
-<rect width="38.9928" height="39.7607" rx="19.4964" transform="matrix(0.999526 0.0307845 -0.031145 0.999515 5.01733 0.455078)" fill="white"/>
+<rect width="39.99" height="39.76" rx="19.88" transform="matrix(0.999526 0.0307845 -0.031145 0.999515 5.01733 0.455078)" fill="#27A6E5"/>
 </g>
-<path d="M31.9092 13.8161L28.4951 29.3145C28.4951 29.3145 28.0517 30.3827 26.9423 29.8297L20.3562 24.1514L20.3254 24.1343C21.265 23.2971 28.5514 16.796 28.8702 16.501C29.3638 16.0441 29.0752 15.7541 28.5082 16.0933L17.8361 22.7813L13.8477 21.2242C13.8477 21.2242 13.2204 20.9663 13.1755 20.4461C13.1299 19.925 13.9171 19.6681 13.9171 19.6681L30.5707 13.3639C30.5707 13.3639 31.9415 12.7785 31.9092 13.8161Z" fill="black"/>
+<path d="M32.607 13.8374L29.118 29.3332C29.118 29.3332 28.6641 30.4011 27.526 29.8472L20.7671 24.1636L20.7355 24.1465C21.6984 23.31 29.1658 16.8147 29.4925 16.5199C29.9983 16.0633 29.7022 15.7732 29.1209 16.1119L18.1815 22.7916L14.0899 21.2313C14.0899 21.2313 13.4465 20.9729 13.4 20.4526C13.3527 19.9315 14.1599 19.6753 14.1599 19.6753L31.2339 13.3841C31.2339 13.3841 32.6393 12.7999 32.607 13.8374V13.8374Z" fill="#FEFEFE"/>
 <defs>
-<filter id="filter0_d_1_559" x="0.376465" y="1.04584" width="47.0176" height="47.7603" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_1_559" x="0.388428" y="1.06097" width="47.9905" height="47.7599" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="4"/>
